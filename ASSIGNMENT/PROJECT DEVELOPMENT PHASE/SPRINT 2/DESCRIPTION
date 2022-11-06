@@ -1,0 +1,6 @@
+This is the file for ESP 32 modules which will be used as the smart beacons to transmit the data from the industry to IBM cloud.
+
+This will upload the following to IBM cloud
+1. Temperature in Fahrenheit
+2. Humidity
+3. Air Quality Percentage.
